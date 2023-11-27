@@ -1,6 +1,6 @@
 Hello, 
 welcome to my Github. My name is Stella Kakarali.
-I´m currently participating in a Coding - Bootcamp. Here some facts about me: 
+I´m currently participating in a Coding - Bootcamp. Here are some facts about me: 
 - I´m trying to figure out how Github works
 - I´m from Hamburg :)
 
