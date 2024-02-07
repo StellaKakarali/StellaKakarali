@@ -17,6 +17,6 @@ So stay tuned for the most amazing Book-Track-App out there 💪🏼
  - [x] React.js (Basics, Nesting, Fetch, local Storage, States, styled Components)
  - [x] Next.js (Basics, Routing)
  - [x] Backend (Basics, Mongo DB, API Routes, CRUD)
- - [x] Book-App (final Project)
+ - [] Book-App (final Project)
 
 ---
