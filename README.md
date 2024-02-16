@@ -5,7 +5,7 @@ I am currently partcicipating in a **Coding-Bootcamp**.
 Sounds like a lot - is a lot.  
 But the crazy part is I´m liking it 😬  
 
-Right now I´m in the midst of coding my final project, which I will be working on for another 3 weeks.
+Right now I´m in the midst of coding my final project, which I will be working on for another 2 weeks.
 
 So stay tuned for the most amazing Book-Track-App out there 💪🏼
 
